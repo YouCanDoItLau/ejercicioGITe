@@ -1,2 +1,2 @@
-# ejercicioGITe
-Ejercicio GIT Tipti Clase
+Laura Elisa Vargas Padilla
+lauravargas2009@gmail.com
