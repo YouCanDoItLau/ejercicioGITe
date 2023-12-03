@@ -1,0 +1,43 @@
+.hgrey {
+    color: #7E7E7E;
+}
+
+.hwhite {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: #DF991B;
+}
+
+h2:first-child {
+    color: #B4B7B7;
+}
+
+.follow {
+    color: #7E7E7E;
+}
+
+.Cgris {
+    color: #464547;
+}
+
+.bwhite {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+.become {
+    color: white;
+}
+
+.FS {
+    background-image: url("/Proyecto/IMG/1ImagenInicio.jpg");
+}
