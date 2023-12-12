@@ -1,3 +1,7 @@
+.logo {
+    padding: 5vh;
+}
+
 .hgrey {
     color: #7E7E7E;
 }
@@ -38,6 +42,175 @@ h4 {
     color: white;
 }
 
-.FS {
-    background-image: url("/Proyecto/IMG/1ImagenInicio.jpg");
+.primera{
+    background-image: url(/Proyecto/IMG/1ImagenInicio.jpg);
+    box-shadow:#26282B;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    height: 100vh;
+}
+
+
+.segunda {
+    display:inline-flex;
+}
+
+footer{
+    background-color: black;
+}
+
+* {
+    margin: 0%;
+
+}
+.join {
+    background-color: hex#26282B ;
+}
+
+.containernav {
+    display: flex;
+    justify-content: space-evenly;
+    align-self: center;
+    width: 100%;
+    height: 10px;
+}
+
+nav{
+    display: flex;;
+}
+.rayanav {
+    display: block;
+}
+
+.luxrest {
+    display: flex;
+    flex-direction: column;
+    justify-items:center;
+    align-items:start;
+    margin-top: 20%;
+    margin-left: 10%;
+}
+
+.form1 {
+    display: flex;
+    justify-content: end;
+    margin: 2% 4%;
+    
+}
+
+.follow {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.segunda {
+    display: flex;
+    flex-direction:row;
+}
+
+.SImagenes {
+    display: flex;
+    width: 20%;
+}
+.segder {
+    display: flex;
+    justify-items: ;
+    width: 100vh;
+}
+.England    {
+    background-image: url(/Proyecto/IMG/2.Glasgow.jpg);
+    padding: 100%;
+    background-size: cover;
+    display: flex;
+}
+
+.France {
+    background-image: url(/Proyecto/IMG/2.Marseilles.jpg);
+    padding: 100%;
+    background-size: cover;
+    display: flex;
+}
+
+.timg {
+    display: flex;
+    width: 10%;
+}
+
+.Carca {
+    background-image: url(/Proyecto/IMG/3.Carcassonne.jpg);
+    padding: 10%;
+    background-size: cover;
+    display: flex;
+}
+
+.Munich {
+    background-image: url(/Proyecto/IMG/3.Munich.jpg);
+    padding: 100%;
+    background-size: cover;
+    display: flex;
+}
+
+.Clo {
+    background-image: url(/Proyecto/IMG/FranClo.jpg);
+    padding: 100%;
+    background-size: cover;
+    display: flex;
+}
+
+.surf {
+    background-image: url(/Proyecto/IMG/4.Surfside.jpg);
+    padding: 10%;
+}
+
+.Vero {
+    background-image: url(/Proyecto/IMG/4.Vero\ Beach.jpg);
+    padding: 10%;
+}
+
+.Bahamas {
+    background-image: url(/Proyecto/IMG/4.Nassau\,\ the\ Bahamas.jpg);
+}
+
+.Miami {
+    background-image: url(/Proyecto/IMG/4.Brickell\,\ Miami.png);
+}
+
+.Coral {
+    background-image: url(/Proyecto/IMG/4.Coral\ Gables.jpg);
+    padding: 10%;
+}
+.William {
+    background-image: url(/Proyecto/IMG/4.Brickell\,\ Miami.jpg);
+}
+.Kitts {
+    background-image: url(/Proyecto/IMG/4.St.\ Kitts\ and\ nevis.jpg);
+}
+.Urbin {
+    background-image: url(/Proyecto/IMG/4.Coconut\ Grove.jpg);
+}
+
+.quinta {
+    display: flex;
+}
+.quintatext {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Join {
+    background-color: #26282B;
+    margin: 5%;
+    display: flex;
+}
+
+.submit {
+    margin-left: 50%;
+    display: flex;
+    flex-direction: column;
+    align-content: space-evenly;
+    height: 10%;
 }
